@@ -8,7 +8,7 @@ const navigation = [
   { name: 'omni trafo', href: '#', current: false },
   { name: 'Sinalizador de Faltas', href: '#', current: false },
   { name: 'Acoplador DP', href: '#', current: false },
-  { name: 'Comprar agora', href: '#', current: true },
+  { name: 'Comprar agora', href: '#', current: false },
 ]
 
 function classNames(...classes: string[]) {
